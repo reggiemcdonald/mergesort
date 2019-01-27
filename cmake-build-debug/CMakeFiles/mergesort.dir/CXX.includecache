@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Reggie/Documents/OneDrive/Documents/BCS/Year 1 - Term 2/CPSC 221/C++ Practice/mergesort/main.cpp
+iostream
+-
+vector
+-
+
